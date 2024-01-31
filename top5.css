@@ -1,0 +1,37 @@
+body {
+    background-color:black;
+}
+
+h1, h2{
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    font-family: Georgia;
+}
+
+p {
+    font-family: Arial;
+    color:white;
+}
+
+ul {
+    font-family:Helvetica;
+    color:white;
+}
+
+/* img {
+    border: 1px solid red;
+    padding: 5px;
+} */
+
+.artist {
+    border: 1px solid red;
+}
+
+.spotlight {
+    padding: 10px;
+    border:1px dotted yellow;
+    width: 300px;
+    text-align: center;
+}
